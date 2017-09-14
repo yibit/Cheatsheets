@@ -18,6 +18,9 @@
 
 ![Pandas](http://datasciencefree.com/img/pandas.jpg)
 
+* [Seaborn](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
+
+
 # Data Science
 
 * [Python](http://datasciencefree.com/python.pdf)
@@ -42,5 +45,16 @@
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
+# Latency Numbers Every Programmer Should Know
 
+* [Latency Numbers Every Programmer Should Know](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+
+# References
+
+* [https://github.com/kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+* [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+* [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5?gi=2cecda2e2a13)
+* [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
+* [Neural-network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
+* [Neural-network-zoo-prequel-cells-layers](http://www.asimovinstitute.org/neural-network-zoo-prequel-cells-layers/)
 
