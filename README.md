@@ -16,7 +16,7 @@
 
 ![The machine learning algorithm cheat sheet](http://blogs.sas.com/content/subconsciousmusings/files/2017/04/machine-learning-cheet-sheet.png)
 
-![Pandas][http://datasciencefree.com/img/pandas.jpg]
+![Pandas](http://datasciencefree.com/img/pandas.jpg)
 
 # Data Science
 
