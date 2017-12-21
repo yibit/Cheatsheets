@@ -44,6 +44,15 @@
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+# Git
+
+* [github git cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+
+# OpenMP
+
+* [OpenMP 4.0 API C/C++ Syntax Quick Reference Card](http://www.openmp.org/wp-content/uploads/OpenMP-4.0-C.pdf)
+* [OpenMP 4.5 API C/C++ Syntax Reference Guide](http://www.openmp.org/wp-content/uploads/OpenMP-4.5-1115-CPP-web.pdf)
+
 
 # Latency Numbers Every Programmer Should Know
 
